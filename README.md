@@ -1,6 +1,8 @@
 # Covid19_Analysis_LSE
 
 Covid19 Analysis Report: Present within the Github repo as a pdf file.
+
+
 Covid19 Analysis Presentation: Available as an mp4 file within the Github Repo. Can be viewed by downloading and viewing the file.
 
 Assignment Activity 2 Observations:
