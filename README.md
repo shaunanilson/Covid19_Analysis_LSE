@@ -1,5 +1,8 @@
 # Covid19_Analysis_LSE
 
+Covid19 Analysis Report: Present within the Github repo as a pdf file.
+Covid19 Analysis Presentation: Available as an mp4 file within the Github Repo. Can be viewed by downloading and viewing the file.
+
 Assignment Activity 2 Observations:
 
 a.	The number of cases amount 7582. However, the total number of rows within the dataframe amount to 7584. Hence, there are some rows containing null values.
